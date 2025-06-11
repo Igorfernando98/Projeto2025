@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Fundo do avatar -->
+  <circle cx="100" cy="100" r="100" fill="#e5e7eb"/>
+  
+  <!-- Silhueta da pessoa -->
+  <g fill="#94a3b8">
+    <!-- Cabeça -->
+    <circle cx="100" cy="70" r="40"/>
+    
+    <!-- Corpo -->
+    <path d="M100,120 C130,120 150,140 170,180 L30,180 C50,140 70,120 100,120 Z"/>
+  </g>
+  
+  <!-- Iniciais (opcional) -->
+  <text x="100" y="75" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#ffffff">IFC</text>
+</svg>
